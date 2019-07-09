@@ -40,6 +40,10 @@ console.log(jonah.description())
 //return first, middle, and last. Should see: eggs, Cheese, pasta.
 var arr1 = ["eggs", "bread", "cheese", "sauce", "pasta"]
 
+
+const Num = (array) => {
+  return arr.map()
+}
 console.log(arr1[0]);
 
 console.log(arr1[2]);
@@ -50,7 +54,7 @@ console.log(arr1[4]);
 //     let newArr = []
 //     for( let i = 0; i <array.length; i++ ){
 // // make the array push 0,2, and 4.
-//     newArr.push(array[i] % 2 === 0 )
+//     newArr.push(array[i] % 2 === 0 )s
 //     }
 //     return newArr
 // }
